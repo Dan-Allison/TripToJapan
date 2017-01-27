@@ -1,0 +1,2 @@
+print("Trip to Japan")
+
